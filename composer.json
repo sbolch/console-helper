@@ -1,0 +1,21 @@
+{
+    "name": "sbolch/console-helper",
+    "description": "Makes console formatting easier.",
+    "keywords": ["console"],
+    "type": "package",
+    "license": "MIT",
+    "homepage": "https://github.com/sbolch/console-helper",
+    "authors": [
+        {
+            "name": "Szabolcs Surányi",
+            "email": "szabolcs.suranyi@shadesoft.hu",
+            "homepage": "https://shadesoft.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "sbolch\\": "" }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
