@@ -2,7 +2,6 @@
     "name": "sbolch/console-helper",
     "description": "Makes console formatting easier.",
     "keywords": ["console"],
-    "type": "package",
     "license": "MIT",
     "homepage": "https://github.com/sbolch/console-helper",
     "authors": [
